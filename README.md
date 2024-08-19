@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I've been learning coding since the year 2022, after i switched career from Data Analysis.
+I've been learning coding since the July 2022, after i switched career from Data Analysis.
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [sackitey68@gmail.com](mailto:sackitey68@gmail.com)
